@@ -1,6 +1,6 @@
-#PROYECTO API REST 
-##Este proyecto fue programado con Node JS, Express, MySQL.
-###A continucacion les dejare una serie de pasos a seguir para poder ejecutar el proyecto en su ordenador.
+# PROYECTO API REST 
+## Este proyecto fue programado con Node JS, Express, MySQL.
+### A continucacion les dejare una serie de pasos a seguir para poder ejecutar el proyecto en su ordenador.
 
 1. Descarga el repositorio de Github y guárdalo en tu ordenador.
 2. Asegúrate de tener instalado Node.js y MySQL en tu equipo. Si no los tienes, descarga e instala las versiones adecuadas para tu sistema operativo.
